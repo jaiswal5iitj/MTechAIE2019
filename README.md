@@ -1,2 +1,1 @@
-# MatrixComputation
-Course Material and assignment for Matrix Computation 
+Course Material and assignment for MTechAIE2019
